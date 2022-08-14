@@ -3,7 +3,6 @@ Aplicativo criado durante o Santander Bootcamp Mobile 2022. App simulador de res
 
 <p float="left">
    <img src="https://tulioalbu.github.io/Simula22_Projeto-DIO/Screenshots/Screenshot_20220804_173229.png" width = "180" hspace="2">
-   <img src="https://tulioalbu.github.io/Simula22_Projeto-DIO/Screenshots/Screenshot_20220804_173300.png" width = "180" hspace="2">
    <img src="https://tulioalbu.github.io/Simula22_Projeto-DIO/Screenshots/Screenshot_20220804_173344.png" width = "180" hspace="2">
    <img src="https://tulioalbu.github.io/Simula22_Projeto-DIO/Screenshots/Screenshot_20220804_173356.png" width = "180" hspace="2">
    
